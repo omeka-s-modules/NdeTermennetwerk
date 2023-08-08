@@ -103,7 +103,8 @@ EOD;
         $headers->addHeaderLine('User-Agent', $agent);
         $response = $this->client
             ->setUri($endpoint)
-            ->setParameterGet(['query' => $query])
+            ->setMethod('POST')
+            ->setRawBody(json_encode(['query' => $query]))
             ->send();
         if (!$response->isSuccess()) {
             return [];
