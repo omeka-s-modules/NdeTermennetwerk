@@ -33,7 +33,7 @@ return [
             'valuesuggest:ndeterms:wikipers' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:wikiplacenlbe' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:wikistrnl' => Service\NdeTermsDataTypeFactory::class,
-        ]
+        ],
     ],
     'translator' => [
         'translation_file_patterns' => [
