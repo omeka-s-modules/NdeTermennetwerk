@@ -5,34 +5,44 @@ Termennetwerk to the Value Suggest module.
 
 ### [NDE Termennetwerk](https://termennetwerk.netwerkdigitaalerfgoed.nl/)
 
-- Art & Architecture Thesaurus - materialen
-- Art & Architecture Thesaurus - processen en technieken
-- Art & Architecture Thesaurus - stijlen en periodes
-- Archeologisch Basisregister
-- Adamlink: straten in Amsterdam
-- Brinkman trefwoordenthesaurus
-- Cultuurhistorische Thesaurus
-- Cultuurhistorische Thesaurus - Materialen
-- Cultuurhistorische Thesaurus - Stijlen en periodes
-- EuroVoc - thesaurus van de Europese Unie
-- GeoNames: geografische namen in Nederland, België en Duitsland
+- Art & Architecture Thesaurus - materials
+- Art & Architecture Thesaurus - processes and techniques
+- Art & Architecture Thesaurus - styles and periods
+- Archaeological Basic Register
+- Adamlink: streets in Amsterdam
+- Biographies Second World War Netherlands
+- Brinkman keyword thesaurus
+- Buildings in Brabant
+- Colonial Past
+- Cultural-Historical Thesaurus
+- Cultural-Historical Thesaurus - Materials
+- Cultural-Historical Thesaurus - Styles and periods
+- EuroVoc - thesaurus of the European Union
+- GeoNames: gepgraphical names in the Netherlands, Belgium and Germany
+- GTAA: classification
 - GTAA: genres
-- GTAA: onderwerpen
+- GTAA: geographic names
+- GTAA: names
+- GTAA: subjects
+- GTAA: person names
 - Homosaurus
 - Iconclass
-- Indisch Erfgoed Thesaurus
-- Muziek: genres en stijlen
-- Muziek: personen en groepen
-- Muziekschatten: onderwerpen
-- Nederlandse Thesaurus van Auteursnamen
+- Indian Heritage Thesaurus
+- Muziekweb: genres and styles
+- Muziekweb: persons and groups
+- Muziekschatten: subjects
+- Muziekschatten: performance mediums
+- Muziekschatten: persons
+- Dutch thesaurus of author names
 - RKDartists
-- STCN: drukkers
-- Thesaurus Nationaal Museum van Wereldculturen
-- Thesaurus Tweede Wereldoorlog Nederland
-- Wikidata: alle entiteiten
-- Wikidata: personen
-- Wikidata: plaatsen in Nederland en België
-- Wikidata: straten in Nederland
+- STCN: printers
+- streets in Gouda
+- Thesaurus National Museum of World Cultures
+- Thesaurus Second World War Netherlands
+- Wikidata: all entities
+- Wikidata: persons
+- Wikidata: places in the Netherlands and Belgium
+- Wikidata: streets in the Netherlands
 
 # Copyright
 
