@@ -6,117 +6,154 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: src/Service/NdeTermsDataTypeFactory.php:16
-msgid "NDE: Art & Architecture Thesaurus - materialen"
+msgid "NDE: Art & Architecture Thesaurus - materials"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:20
-msgid "NDE: Art & Architecture Thesaurus - processen en technieken"
+msgid "NDE: Art & Architecture Thesaurus - processes and techniques"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:24
-msgid "NDE: Art & Architecture Thesaurus - stijlen en periodes"
+msgid "NDE: Art & Architecture Thesaurus - styles and periods"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:28
-msgid "NDE: Archeologisch Basisregister"
+msgid "NDE: Archaeological Basic Register"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:32
-msgid "NDE: Adamlink: straten in Amsterdam"
+msgid "NDE: Adamlink: streets in Amsterdam"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:36
-msgid "NDE: Brinkman trefwoordenthesaurus"
+msgid "NDE: Brinkman keyword thesaurus"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:40
-msgid "NDE: Cultuurhistorische Thesaurus"
+msgid "NDE: Cultural-Historical Thesaurus"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:44
-msgid "NDE: Cultuurhistorische Thesaurus - Materialen"
+msgid "NDE: Cultural-Historical Thesaurus - Materials"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:48
-msgid "NDE: Cultuurhistorische Thesaurus - Stijlen en periodes"
+msgid "NDE: Cultural-Historical Thesaurus - Styles and periods"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:52
-msgid "NDE: EuroVoc - thesaurus van de Europese Unie"
+msgid "NDE: EuroVoc - thesaurus of the European Union"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:56
-msgid "NDE: GeoNames: geografische namen in Nederland, België en Duitsland"
+msgid ""
+"NDE: GeoNames: gepgraphical names in the Netherlands, Belgium and Germany"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:60
-msgid "NDE: Goudse straten"
+msgid "NDE: streets in Gouda"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:64
-msgid "NDE: GTAA: genres"
+msgid "NDE: GTAA: person names"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:68
-msgid "NDE: GTAA: onderwerpen"
+msgid "NDE: GTAA: classification"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:72
-msgid "NDE: Homosaurus"
+msgid "NDE: GTAA: genres"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:76
-msgid "NDE: Iconclass"
+msgid "NDE: GTAA: geographic names"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:80
-msgid "NDE: Indisch Erfgoed Thesaurus"
+msgid "NDE: GTAA: names"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:84
-msgid "NDE: Muziek: genres en stijlen"
+msgid "NDE: GTAA: subjects"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:88
-msgid "NDE: Muziek: personen en groepen"
+msgid "NDE: Homosaurus"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:92
-msgid "NDE: Muziekschatten: onderwerpen"
+msgid "NDE: Iconclass"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:96
-msgid "NDE: Nederlandse Thesaurus van Auteursnamen"
+msgid "NDE: Indian Heritage Thesaurus"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:100
-msgid "NDE: RKDartists"
+msgid "NDE: Muziekweb: genres and styles"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:104
-msgid "NDE: STCN: drukkers"
+msgid "NDE: Muziekweb: persons and groups"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:108
-msgid "NDE: Thesaurus Nationaal Museum van Wereldculturen"
+msgid "NDE: Muziekschatten: subjects"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:112
-msgid "NDE: Thesaurus Tweede Wereldoorlog Nederland"
+msgid "NDE: Muziekschatten: persons"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:116
-msgid "NDE: Wikidata: alle entiteiten"
+msgid "NDE: Muziekschatten: performance mediums"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:120
-msgid "NDE: Wikidata: personen"
+msgid "NDE: Dutch thesaurus of author names"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:124
-msgid "NDE: Wikidata: plaatsen in Nederland en België"
+msgid "NDE: RKDartists"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:128
-msgid "NDE: Wikidata: straten in Nederland"
+msgid "NDE: STCN: printers"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:132
+msgid "NDE: Thesaurus National Museum of World Cultures"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:136
+msgid "NDE: Thesaurus Second World War Netherlands"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:140
+msgid "NDE: Biographies Second World War Netherlands"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:144
+msgid "NDE: Wikidata: all entities"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:148
+msgid "NDE: Wikidata: persons"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:152
+msgid "NDE: Wikidata: places in the Netherlands and Belgium"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:156
+msgid "NDE: Wikidata: streets in the Netherlands"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:160
+msgid "NDE: Buildings in Brabant"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:164
+msgid "NDE: Colonial Past"
 msgstr ""
