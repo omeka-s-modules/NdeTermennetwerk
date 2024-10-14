@@ -122,7 +122,7 @@ class NdeTermsDataTypeFactory implements FactoryInterface
         ],
         'valuesuggest:ndeterms:rkdartists' => [
             'label' => 'NDE: RKDartists', // @translate
-            'source' => 'https://data.netwerkdigitaalerfgoed.nl/rkd/rkdartists/sparql',
+            'source' => 'https://data.rkd.nl/rkdartists',
         ],
         'valuesuggest:ndeterms:stcn' => [
             'label' => 'NDE: STCN: printers', // @translate
