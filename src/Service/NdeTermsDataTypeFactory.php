@@ -164,6 +164,10 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'label' => 'NDE: Colonial Past', // @translate
             'source' => 'https://data.cultureelerfgoed.nl/PoolParty/sparql/koloniaalverleden',
         ],
+        'valuesuggest:ndeterms:rcemon' => [
+            'label' => 'NDE: National Monuments Register RCE', // @translate
+            'source' => 'https://linkeddata.cultureelerfgoed.nl/cho-kennis/id/rijksmonument/',
+        ],
     ];
 
     public function __invoke(ContainerInterface $services, $requestedName, array $options = null)
