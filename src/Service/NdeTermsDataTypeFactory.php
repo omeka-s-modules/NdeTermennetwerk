@@ -132,7 +132,7 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'label' => 'NDE: Thesaurus National Museum of World Cultures', // @translate
             'source' => 'https://data.netwerkdigitaalerfgoed.nl/NMVW/thesaurus/sparql',
         ],
-        'valuesuggest:ndeterms:ttwn' => [
+        'valuesuggest:ndeterms:tswwnl' => [
             'label' => 'NDE: Thesaurus Second World War Netherlands', // @translate
             'source' => 'https://data.niod.nl/PoolParty/sparql/WO2_Thesaurus',
         ],
