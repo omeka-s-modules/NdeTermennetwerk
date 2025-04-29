@@ -1,7 +1,6 @@
 # NDE Termennetwerk
 
-An [Omeka S](https://omeka.org/s/) module that adds NDE (Netwerk Digitaal Erfgoed)
-Termennetwerk to the Value Suggest module.
+An [Omeka S](https://omeka.org/s/) module that adds the [Network of Terms](https://termennetwerk.netwerkdigitaalerfgoed.nl/en) (Dutch Digital Heritage Network) to the Value Suggest module.
 
 ### [NDE Termennetwerk](https://termennetwerk.netwerkdigitaalerfgoed.nl/)
 
@@ -17,6 +16,7 @@ Termennetwerk to the Value Suggest module.
 - Cultural-Historical Thesaurus
 - Cultural-Historical Thesaurus - Materials
 - Cultural-Historical Thesaurus - Styles and periods
+- Dutch thesaurus of author names (NTA)
 - EuroVoc - thesaurus of the European Union
 - GeoNames: gepgraphical names in the Netherlands, Belgium and Germany
 - GTAA: classification
@@ -33,10 +33,10 @@ Termennetwerk to the Value Suggest module.
 - Muziekschatten: subjects
 - Muziekschatten: performance mediums
 - Muziekschatten: persons
-- Dutch thesaurus of author names
+- National Monuments Register RCE
 - RKDartists
 - STCN: printers
-- streets in Gouda
+- Streets in Gouda
 - Thesaurus National Museum of World Cultures
 - Thesaurus Second World War Netherlands
 - Wikidata: all entities
