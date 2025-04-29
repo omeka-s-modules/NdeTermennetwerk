@@ -53,7 +53,7 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'source' => 'http://publications.europa.eu/webapi/rdf/sparql#eurovoc',
         ],
         'valuesuggest:ndeterms:geonames' => [
-            'label' => 'NDE: GeoNames: gepgraphical names in the Netherlands, Belgium and Germany', // @translate
+            'label' => 'NDE: GeoNames: geographical names in the Netherlands, Belgium and Germany', // @translate
             'source' => 'https://demo.netwerkdigitaalerfgoed.nl/geonames',
         ],
         'valuesuggest:ndeterms:gtm' => [
