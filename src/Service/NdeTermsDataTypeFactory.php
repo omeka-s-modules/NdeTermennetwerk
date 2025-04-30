@@ -53,7 +53,7 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'source' => 'http://publications.europa.eu/webapi/rdf/sparql#eurovoc',
         ],
         'valuesuggest:ndeterms:geonames' => [
-            'label' => 'NDE: GeoNames: gepgraphical names in the Netherlands, Belgium and Germany', // @translate
+            'label' => 'NDE: GeoNames: geographical names in the Netherlands, Belgium and Germany', // @translate
             'source' => 'https://demo.netwerkdigitaalerfgoed.nl/geonames',
         ],
         'valuesuggest:ndeterms:gtm' => [
@@ -132,7 +132,7 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'label' => 'NDE: Thesaurus National Museum of World Cultures', // @translate
             'source' => 'https://data.netwerkdigitaalerfgoed.nl/NMVW/thesaurus/sparql',
         ],
-        'valuesuggest:ndeterms:ttwn' => [
+        'valuesuggest:ndeterms:tswwnl' => [
             'label' => 'NDE: Thesaurus Second World War Netherlands', // @translate
             'source' => 'https://data.niod.nl/PoolParty/sparql/WO2_Thesaurus',
         ],
@@ -163,6 +163,10 @@ class NdeTermsDataTypeFactory implements FactoryInterface
         'valuesuggest:ndeterms:kolverleden' => [
             'label' => 'NDE: Colonial Past', // @translate
             'source' => 'https://data.cultureelerfgoed.nl/PoolParty/sparql/koloniaalverleden',
+        ],
+        'valuesuggest:ndeterms:rcemon' => [
+            'label' => 'NDE: National Monuments Register RCE', // @translate
+            'source' => 'https://linkeddata.cultureelerfgoed.nl/cho-kennis/id/rijksmonument/',
         ],
     ];
 
