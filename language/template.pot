@@ -47,7 +47,7 @@ msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:56
 msgid ""
-"NDE: GeoNames: gepgraphical names in the Netherlands, Belgium and Germany"
+"NDE: GeoNames: geographical names in the Netherlands, Belgium and Germany"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:60
@@ -156,4 +156,8 @@ msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:164
 msgid "NDE: Colonial Past"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:168
+msgid "NDE: National Monuments Register RCE"
 msgstr ""
