@@ -134,31 +134,31 @@ EOD;
                     $uri = @$item["uri"] ?: false;
                     $label = @$item["prefLabel"][0] ?: false;
 
-                    $infos=array();
-                    if (count(@$item["scopeNote"])>0) {
-                        array_push($infos,join("\n",@$item["scopeNote"])."\n");
+                    $infos = [];
+                    if (count(@$item["scopeNote"]) > 0) {
+                        array_push($infos, join("\n", @$item["scopeNote"]) . "\n");
                     }
-                    if (count(@$item["altLabel"])>0) {
-                        array_push($infos,"Alternative label: " // @translate
-                            .join(", ",@$item["altLabel"]));
+                    if (count(@$item["altLabel"]) > 0) {
+                        array_push($infos, "Alternative label: " // @translate
+                            . join(", ", @$item["altLabel"]));
                     }
-                    if (count(@$item["broader"])>0) {
-                        array_push($infos,"Broader term: " // @translate
-                            . join(", ",array_map(function($element) { return $element["prefLabel"][0] ?? null; }, $item["broader"])));
+                    if (count(@$item["broader"]) > 0) {
+                        array_push($infos, "Broader term: " // @translate
+                            . join(", ", array_map(function ($element) { return $element["prefLabel"][0] ?? null; }, $item["broader"])));
                     }
-                    if (count(@$item["narrower"])>0) {
-                        array_push($infos,"Narrower term: " // @translate
-                            . join(", ",array_map(function($element) { return $element["prefLabel"][0] ?? null; }, $item["narrower"])));
+                    if (count(@$item["narrower"]) > 0) {
+                        array_push($infos, "Narrower term: " // @translate
+                            . join(", ", array_map(function ($element) { return $element["prefLabel"][0] ?? null; }, $item["narrower"])));
                     }
-                    if (count(@$item["related"])>0) {
-                        array_push($infos,"Related term: " // @translate
-                            . join(", ",array_map(function($element) { return $element["prefLabel"][0] ?? null; }, $item["related"])));
+                    if (count(@$item["related"]) > 0) {
+                        array_push($infos, "Related term: " // @translate
+                            . join(", ", array_map(function ($element) { return $element["prefLabel"][0] ?? null; }, $item["related"])));
                     }
-                    
-                    array_push($infos,"\nURI: ".$uri);
-                    
-                    $info=join("\n",$infos);
-                    
+
+                    array_push($infos, "\nURI: " . $uri);
+
+                    $info = join("\n", $infos);
+
                     if ($uri && $label) {
                         array_push($suggestions, ['value' => $label, 'data' => ['uri' => $uri, 'info' => $info]]);
                     }
