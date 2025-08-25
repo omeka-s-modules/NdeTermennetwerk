@@ -168,20 +168,20 @@ msgstr "NDE: Koloniaal Verleden"
 
 #: src/Service/NdeTermsDataTypeFactory.php:168
 msgid "NDE: National Monuments Register RCE"
-msgstr "NDE: Rijksmonnumentenregister"
+msgstr "NDE: Rijksmonumentenregister"
 
 #: src/Suggester/NdeTermsSuggest.php:142
 msgid "Alternative label: "
-msgstr ""
+msgstr "Alternatief label:"
 
 #: src/Suggester/NdeTermsSuggest.php:146
 msgid "Broader term: "
-msgstr ""
+msgstr "Bredere term:"
 
 #: src/Suggester/NdeTermsSuggest.php:150
 msgid "Narrower term: "
-msgstr ""
+msgstr "Nauwere term:"
 
 #: src/Suggester/NdeTermsSuggest.php:154
 msgid "Related term: "
-msgstr ""
+msgstr "Gerelateerde term:"
