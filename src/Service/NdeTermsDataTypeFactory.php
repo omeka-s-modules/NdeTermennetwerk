@@ -138,10 +138,10 @@ class NdeTermsDataTypeFactory implements FactoryInterface
         ],
         'valuesuggest:ndeterms:tswwnl' => [
             'label' => 'NDE: Thesaurus Second World War Netherlands', // @translate
-            'source' => 'https://data.niod.nl/PoolParty/sparql/WO2_Thesaurus',
+            'source' => 'https://data.niod.nl/WO2_biografieen',
         ],
         'valuesuggest:ndeterms:ttwn' => [
-            'label' => 'NDE: Biographies Second World War Netherlands', // @translate
+            'label' => 'NDE: WW2 biographies', // @translate
             'source' => 'https://data.niod.nl/PoolParty/sparql/WO2_Thesaurus',
         ],
         'valuesuggest:ndeterms:wikiall' => [
