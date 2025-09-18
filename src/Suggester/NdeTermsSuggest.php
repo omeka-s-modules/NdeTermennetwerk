@@ -3,6 +3,7 @@ namespace NdeTermennetwerk\Suggester;
 
 use Laminas\Http\Client;
 use ValueSuggest\Suggester\SuggesterInterface;
+use Omeka\Module\Manager as ModuleManager;
 
 /**
  * Implementation following the structure of other Suggester classes, mainly
@@ -20,10 +21,16 @@ class NdeTermsSuggest implements SuggesterInterface
      */
     protected $source;
 
-    public function __construct(Client $client, $source)
+    /**
+     * @var ModuleManager
+     */
+    protected $moduleManager;
+
+    public function __construct(Client $client, $source, ModuleManager $moduleManager)
     {
         $this->client = $client;
         $this->source = $source;
+        $this->moduleManager = $moduleManager;
     }
 
     /**
@@ -44,7 +51,9 @@ class NdeTermsSuggest implements SuggesterInterface
         if (strlen($query) < 4) {
             return [];
         }
-        $agent = "Omeka S ValueSuggest";
+        $module = $this->moduleManager->getModule('NdeTermennetwerk');
+        $version = $module ? $module->getIni('version') : '1.0.0';
+        $agent = "Omeka S ValueSuggest NdeTermennetwerk/{$version}";
         $endpoint = "https://termennetwerk-api.netwerkdigitaalerfgoed.nl/graphql";
         $graphqlQuery = $this->buildQuery($query, $this->source);
         $result = $this->graphqlExecute($endpoint, $agent, $graphqlQuery);
