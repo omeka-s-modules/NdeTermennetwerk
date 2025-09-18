@@ -64,7 +64,7 @@ The `$types` array in the src/Service/NdeTermsDataTypeFactory.php file should be
   ],
 ```
 
-The key of the source in the `$types` array should be unique. The last part (`rtf` in this example) is made up. Be aware that this key is used within the definition of resource templates and therefor **MUST NOT** change.
+The key of the source in the `$types` array should be unique. The last part (`rtf` in this example) is made up. Be aware that this key is used within the definition of resource templates and therefor **MUST NOT** change. For consistency, the label should be prepended with "NDE: ".
 
 ## 3 - Update [config/module.config.php](config/module.config.php)
 
