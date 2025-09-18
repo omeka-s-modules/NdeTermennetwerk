@@ -58,25 +58,33 @@ Take note of the English name of the Dataset (to be used as `label`) and the (pe
 The `$types` array in the src/Service/NdeTermsDataTypeFactory.php file should be expanded with an entry like:
 
 ```php
-        'valuesuggest:ndeterms:rtf' => [
-            'label' => 'Regiotermen Fryslân: Persons', // @translate
-            'source' => 'https://graph.friesland.regiotermen.nl/repositories/friese_thesaurus',
-        ],
+  'valuesuggest:ndeterms:rtf' => [
+    'label' => 'Regiotermen Fryslân: Persons', // @translate
+    'source' => 'https://graph.friesland.regiotermen.nl/repositories/friese_thesaurus',
+  ],
 ```
 
 The key of the source in the `$types` array should be unique. The last part (`rtf` in this example) is made up. Be aware that this key is used within the definition of resource templates and therefor **MUST NOT** change.
 
-## 3 - Update [README.md](README.md)
+## 3 - Update [config/module.config.php](config/module.config.php)
+
+Add map the new source by key to `the `Service\NdeTermsDataTypeFactory::class` in the `data_type` => `factories` array, like:
+
+```php
+  'valuesuggest:ndeterms:rtf' => Service\NdeTermsDataTypeFactory::class,
+```
+
+## 4 - Update [README.md](README.md)
 
 The README.md contains a description of the module as well of the list of terminology sources available via this module. The README.md is also the source of the module information page https://omeka.org/s/modules/NdeTermennetwerk/
 
 The (English) name of the new source should be added to the list of this README.md file.
 
-## 3 - Update version in [config/module.ini](config/module.ini)
+## 5 - Update version in [config/module.ini](config/module.ini)
 
 The file config/module.ini contains the versionnumber of the module. When new terminology sources are added the minor number of the version should be incremented.
 
-## 4 - Update language strings
+## 6 - Update language strings
 
 
 The `// @translate` tag in [src/Service/NdeTermsDataTypeFactory.php](src/Service/NdeTermsDataTypeFactory.php) indicates a new English term which has to be translated.
