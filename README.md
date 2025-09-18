@@ -16,20 +16,20 @@ An [Omeka S](https://omeka.org/s/) module that adds the [Network of Terms](https
 - Cultural-Historical Thesaurus
 - Cultural-Historical Thesaurus - Materials
 - Cultural-Historical Thesaurus - Styles and periods
-- Dutch thesaurus of author names (NTA)
+- Dutch National Thesaurus for Author Names
 - EuroVoc - thesaurus of the European Union
-- GeoNames: gepgraphical names in the Netherlands, Belgium and Germany
+- GeoNames: geographical names in the Netherlands, Belgium and Germany
 - GTAA: classification
 - GTAA: genres
-- GTAA: geographic names
+- GTAA: geographical namess
 - GTAA: names
 - GTAA: subjects
 - GTAA: person names
 - Homosaurus
 - Iconclass
-- Indian Heritage Thesaurus
-- Muziekweb: genres and styles
-- Muziekweb: persons and groups
+- Dutch East Indies Heritage Thesaurus
+- Music: genres and styles
+- Music: persons and groups
 - Muziekschatten: subjects
 - Muziekschatten: performance mediums
 - Muziekschatten: persons
@@ -37,9 +37,9 @@ An [Omeka S](https://omeka.org/s/) module that adds the [Network of Terms](https
 - Regiotermen Fryslân: Persons
 - RKDartists
 - STCN: printers
-- Streets in Gouda
+- Gouda streets
 - Thesaurus National Museum of World Cultures
-- Thesaurus Second World War Netherlands
+- Thesaurus WW2
 - Wikidata: all entities
 - Wikidata: persons
 - Wikidata: places in the Netherlands and Belgium

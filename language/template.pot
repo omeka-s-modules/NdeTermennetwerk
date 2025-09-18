@@ -51,7 +51,7 @@ msgid ""
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:60
-msgid "NDE: streets in Gouda"
+msgid "NDE: Gouda streets"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:64
@@ -67,7 +67,7 @@ msgid "NDE: GTAA: genres"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:76
-msgid "NDE: GTAA: geographic names"
+msgid "NDE: GTAA: geographical names"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:80
@@ -87,15 +87,15 @@ msgid "NDE: Iconclass"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:96
-msgid "NDE: Indian Heritage Thesaurus"
+msgid "NDE: Dutch East Indies Heritage Thesaurus"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:100
-msgid "NDE: Muziekweb: genres and styles"
+msgid "NDE: Music: genres and styles"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:104
-msgid "NDE: Muziekweb: persons and groups"
+msgid "NDE: Music: persons and groups"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:108
@@ -127,7 +127,7 @@ msgid "NDE: Thesaurus National Museum of World Cultures"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:136
-msgid "NDE: Thesaurus Second World War Netherlands"
+msgid "NDE: Thesaurus WW2"
 msgstr ""
 
 #: src/Service/NdeTermsDataTypeFactory.php:140

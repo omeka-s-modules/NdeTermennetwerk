@@ -57,7 +57,7 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'source' => 'https://www.geonames.org#nl-be-de',
         ],
         'valuesuggest:ndeterms:gtm' => [
-            'label' => 'NDE: streets in Gouda', // @translate
+            'label' => 'NDE: Gouda streets', // @translate
             'source' => 'https://www.goudatijdmachine.nl/id/straten',
         ],
         'valuesuggest:ndeterms:gtaaper' => [
@@ -73,7 +73,7 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'source' => 'http://data.beeldengeluid.nl/gtaa/Genre',
         ],
         'valuesuggest:ndeterms:gtaageo' => [
-            'label' => 'NDE: GTAA: geographic names', // @translate
+            'label' => 'NDE: GTAA: geographical names', // @translate
             'source' => 'http://data.beeldengeluid.nl/gtaa/GeografischeNamen',
         ],
         'valuesuggest:ndeterms:gtaanam' => [
@@ -93,15 +93,15 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'source' => 'https://iconclass.org',
         ],
         'valuesuggest:ndeterms:ied' => [
-            'label' => 'NDE: Indian Heritage Thesaurus', // @translate
+            'label' => 'NDE: Dutch East Indies Heritage Thesaurus', // @translate
             'source' => 'https://data.indischherinneringscentrum.nl/ied',
         ],
         'valuesuggest:ndeterms:muzgs' => [
-            'label' => 'NDE: Muziekweb: genres and styles', // @translate
+            'label' => 'NDE: Music: genres and styles', // @translate
             'source' => 'https://data.muziekweb.nl/MuziekwebOrganization/Muziekweb#mw-genresstijlen',
         ],
         'valuesuggest:ndeterms:muzpp' => [
-            'label' => 'NDE: Muziekweb: persons and groups', // @translate
+            'label' => 'NDE: Music: persons and groups', // @translate
             'source' => 'https://data.muziekweb.nl/MuziekwebOrganization/Muziekweb#mw-personengroepen',
         ],
         'valuesuggest:ndeterms:muzsch' => [
@@ -137,7 +137,7 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'source' => 'https://data.colonialcollections.nl/nmvw/thesaurus',
         ],
         'valuesuggest:ndeterms:tswwnl' => [
-            'label' => 'NDE: Thesaurus Second World War Netherlands', // @translate
+            'label' => 'NDE: Thesaurus WW2', // @translate
             'source' => 'https://data.niod.nl/WO2_biografieen',
         ],
         'valuesuggest:ndeterms:ttwn' => [
