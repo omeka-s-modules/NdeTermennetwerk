@@ -120,6 +120,10 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'label' => 'NDE: Dutch thesaurus of author names', // @translate
             'source' => 'http://data.bibliotheken.nl/thesp/sparql',
         ],
+        'valuesuggest:ndeterms:rtf' => [
+            'label' => 'NDE: Regiotermen Fryslân: Persons', // @translate
+            'source' => 'https://fryslan.regiotermen.nl/personen',
+        ],
         'valuesuggest:ndeterms:rkdartists' => [
             'label' => 'NDE: RKDartists', // @translate
             'source' => 'https://data.rkd.nl/rkdartists',

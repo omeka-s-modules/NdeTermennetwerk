@@ -35,6 +35,7 @@ return [
             'valuesuggest:ndeterms:nta' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:rcemon' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:rkdartists' => Service\NdeTermsDataTypeFactory::class,
+            'valuesuggest:ndeterms:rtf' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:stcn' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:tnmw' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:tswwnl' => Service\NdeTermsDataTypeFactory::class,
