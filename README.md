@@ -34,6 +34,7 @@ An [Omeka S](https://omeka.org/s/) module that adds the [Network of Terms](https
 - Muziekschatten: performance mediums
 - Muziekschatten: persons
 - National Monuments Register RCE
+- Regiotermen Fryslân: Persons
 - RKDartists
 - STCN: printers
 - Streets in Gouda
