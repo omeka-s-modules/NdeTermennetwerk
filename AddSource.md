@@ -43,15 +43,9 @@ For example, [rtf-personen.jsonld](https://github.com/netwerk-digitaal-erfgoed/n
     }
   ],
   ...
-  "distribution": [
-    {
-      "@id": "https://graph.friesland.regiotermen.nl/repositories/friese_thesaurus",
-      ...
-    }
-  ]
 }
 ```
-Take note of the English name of the Dataset (to be used as `label`) and the (persistent) @id of the distribution of the dataset (to be used as `source`).
+Take note of the English `name` of the Dataset (to be used as `label`) and the (persistent) @id of the Dataset (to be used as `source`).
 
 ## 2 - Update [src/Service/NdeTermsDataTypeFactory.php](src/Service/NdeTermsDataTypeFactory.php)
 
@@ -60,7 +54,7 @@ The `$types` array in the src/Service/NdeTermsDataTypeFactory.php file should be
 ```php
   'valuesuggest:ndeterms:rtf' => [
     'label' => 'Regiotermen Fryslân: Persons', // @translate
-    'source' => 'https://graph.friesland.regiotermen.nl/repositories/friese_thesaurus',
+    'source' => 'https://fryslan.regiotermen.nl/personen',
   ],
 ```
 
