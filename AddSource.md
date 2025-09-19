@@ -76,7 +76,7 @@ The (English) name of the new source should be added to the list of this README.
 
 ## 5 - Update version in [config/module.ini](config/module.ini)
 
-The file config/module.ini contains the versionnumber of the module. When new terminology sources are added the minor number of the version should be incremented.
+The file config/module.ini contains the versionnumber of the module. When new terminology sources are added the patch level of the version should be incremented. Upon release the patch number should be set to 0 and the minor version number should be increased.
 
 ## 6 - Update language strings
 
