@@ -37,6 +37,8 @@ return [
             'valuesuggest:ndeterms:muzscp' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:muzscu' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:nta' => Service\NdeTermsDataTypeFactory::class,
+            'valuesuggest:ndeterms:picotrole' => Service\NdeTermsDataTypeFactory::class,
+            'valuesuggest:ndeterms:picotsource' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:rcemon' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:rkdartists' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:rtf' => Service\NdeTermsDataTypeFactory::class,

@@ -136,6 +136,14 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'label' => 'NDE: Dutch thesaurus of author names', // @translate
             'source' => 'http://data.bibliotheken.nl/id/dataset/persons',
         ],
+        'valuesuggest:ndeterms:picotrole' => [
+            'label' => 'NDE: Persons in Context role thesaurus', // @translate
+            'source' => 'https://terms.personsincontext.org/ThesaurusHistorischePersoonsgegevens/44',
+        ],
+        'valuesuggest:ndeterms:picotsource' => [
+            'label' => 'NDE: Persons in Context source types thesaurus', // @translate
+            'source' => 'https://terms.personsincontext.org/ThesaurusHistorischePersoonsgegevens/523',
+        ],
         'valuesuggest:ndeterms:rtf' => [
             'label' => 'NDE: Regiotermen Fryslân: Persons', // @translate
             'source' => 'https://fryslan.regiotermen.nl/personen',

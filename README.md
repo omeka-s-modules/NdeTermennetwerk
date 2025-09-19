@@ -38,6 +38,8 @@ An [Omeka S](https://omeka.org/s/) module that adds the [Network of Terms](https
 - Muziekschatten: performance mediums
 - Muziekschatten: persons
 - National Monuments Register RCE
+- Persons in Context role thesaurus
+- Persons in Context source types thesaurus
 - Regiotermen Fryslân: Persons
 - RKDartists
 - STCN: printers
