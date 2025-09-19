@@ -96,6 +96,10 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'label' => 'NDE: GTAA: subjects', // @translate
             'source' => 'http://data.beeldengeluid.nl/gtaa/Onderwerpen',
         ],
+        'valuesuggest:ndeterms:gtaaondbeng' => [
+            'label' => 'NDE: GTAA: subjects sound-vision', // @translate
+            'source' => 'http://data.beeldengeluid.nl/gtaa/OnderwerpenBenG',
+        ],
         'valuesuggest:ndeterms:homosaurus' => [
             'label' => 'NDE: Homosaurus', // @translate
             'source' => 'https://data.ihlia.nl/homosaurus',

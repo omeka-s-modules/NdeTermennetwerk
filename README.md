@@ -27,6 +27,7 @@ An [Omeka S](https://omeka.org/s/) module that adds the [Network of Terms](https
 - GTAA: geographical namess
 - GTAA: names
 - GTAA: subjects
+- GTAA: subjects sound-vision
 - GTAA: person names
 - Homosaurus
 - Iconclass

@@ -24,6 +24,7 @@ return [
             'valuesuggest:ndeterms:gtaageo' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:gtaanam' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:gtaaond' => Service\NdeTermsDataTypeFactory::class,
+            'valuesuggest:ndeterms:gtaaondbeng' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:gtaaper' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:gtm' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:homosaurus' => Service\NdeTermsDataTypeFactory::class,
