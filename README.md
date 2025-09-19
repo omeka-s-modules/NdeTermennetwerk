@@ -41,6 +41,7 @@ An [Omeka S](https://omeka.org/s/) module that adds the [Network of Terms](https
 - RKDartists
 - STCN: printers
 - Gouda streets
+- Thesaurus Camp Westerbork
 - Thesaurus National Museum of World Cultures
 - Thesaurus WW2
 - Wikidata: all entities

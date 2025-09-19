@@ -43,6 +43,7 @@ return [
             'valuesuggest:ndeterms:tnmw' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:tswwnl' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:ttwn' => Service\NdeTermsDataTypeFactory::class,
+            'valuesuggest:ndeterms:wstb' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:wikiall' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:wikipers' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:wikiplacenlbe' => Service\NdeTermsDataTypeFactory::class,

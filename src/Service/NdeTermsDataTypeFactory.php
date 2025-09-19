@@ -144,6 +144,10 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'label' => 'NDE: STCN: printers', // @translate
             'source' => 'http://data.bibliotheken.nl/id/dataset/stcn/printers',
         ],
+        'valuesuggest:ndeterms:wstb' => [
+            'label' => 'NDE: Thesaurus Camp Westerbork', // @translate
+            'source' => 'https://data.kampwesterbork.nl/thesaurus',
+        ],
         'valuesuggest:ndeterms:tnmw' => [
             'label' => 'NDE: Thesaurus National Museum of World Cultures', // @translate
             'source' => 'https://data.colonialcollections.nl/nmvw/thesaurus',
