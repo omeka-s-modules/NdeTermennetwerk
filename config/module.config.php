@@ -18,6 +18,7 @@ return [
             'valuesuggest:ndeterms:chtsp' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:eurovoc' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:geonames' => Service\NdeTermsDataTypeFactory::class,
+            'valuesuggest:ndeterms:geonamesall' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:gtaacla' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:gtaagen' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:gtaageo' => Service\NdeTermsDataTypeFactory::class,

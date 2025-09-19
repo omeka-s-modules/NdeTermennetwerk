@@ -21,6 +21,7 @@ An [Omeka S](https://omeka.org/s/) module that adds the [Network of Terms](https
 - Dutch National Thesaurus for Author Names
 - EuroVoc - thesaurus of the European Union
 - GeoNames: geographical names in the Netherlands, Belgium and Germany
+- GeoNames: global geographical names
 - GTAA: classification
 - GTAA: genres
 - GTAA: geographical namess

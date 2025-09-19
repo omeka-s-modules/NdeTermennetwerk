@@ -64,6 +64,10 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'label' => 'NDE: GeoNames: geographical names in the Netherlands, Belgium and Germany', // @translate
             'source' => 'https://www.geonames.org#nl-be-de',
         ],
+        'valuesuggest:ndeterms:geonamesall' => [
+            'label' => 'NDE: GeoNames: global geographical names', // @translate
+            'source' => 'https://www.geonames.org',
+        ],
         'valuesuggest:ndeterms:gtm' => [
             'label' => 'NDE: Gouda streets', // @translate
             'source' => 'https://www.goudatijdmachine.nl/id/straten',
