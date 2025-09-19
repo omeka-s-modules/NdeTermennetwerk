@@ -4,6 +4,7 @@ An [Omeka S](https://omeka.org/s/) module that adds the [Network of Terms](https
 
 ### [NDE Termennetwerk](https://termennetwerk.netwerkdigitaalerfgoed.nl/)
 
+- Art & Architecture Thesaurus
 - Art & Architecture Thesaurus - materials
 - Art & Architecture Thesaurus - processes and techniques
 - Art & Architecture Thesaurus - styles and periods

@@ -12,6 +12,10 @@ use NdeTermennetwerk\DataType\NdeTerms;
 class NdeTermsDataTypeFactory implements FactoryInterface
 {
     protected $types = [
+        'valuesuggest:ndeterms:aat' => [
+            'label' => 'NDE: Art & Architecture Thesaurus', // @translate
+            'source' => 'http://vocab.getty.edu/aat',
+        ],
         'valuesuggest:ndeterms:aatm' => [
             'label' => 'NDE: Art & Architecture Thesaurus - materials', // @translate
             'source' => 'http://vocab.getty.edu/aat#materials',

@@ -4,6 +4,7 @@ namespace NdeTermennetwerk;
 return [
     'data_types' => [
         'factories' => [
+            'valuesuggest:ndeterms:aat' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:aatm' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:aatpt' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:aatsp' => Service\NdeTermsDataTypeFactory::class,
