@@ -59,8 +59,8 @@ msgid ""
 msgstr "NDE: GeoNames: noms geogràfics als Països Baixos, Bèlgica i Alemanya"
 
 #: src/Service/NdeTermsDataTypeFactory.php:60
-msgid "NDE: streets in Gouda"
-msgstr "NDE: streets in Gouda"
+msgid "NDE: Gouda streets"
+msgstr "NDE: Gouda streets"
 
 #: src/Service/NdeTermsDataTypeFactory.php:64
 msgid "NDE: GTAA: person names"
@@ -75,8 +75,8 @@ msgid "NDE: GTAA: genres"
 msgstr "NDE: GTAA: genres"
 
 #: src/Service/NdeTermsDataTypeFactory.php:76
-msgid "NDE: GTAA: geographic names"
-msgstr "NDE: GTAA: geographic names"
+msgid "NDE: GTAA: geographical names"
+msgstr "NDE: GTAA: geographical names"
 
 #: src/Service/NdeTermsDataTypeFactory.php:80
 msgid "NDE: GTAA: names"
@@ -95,16 +95,16 @@ msgid "NDE: Iconclass"
 msgstr "NDE: Iconclass"
 
 #: src/Service/NdeTermsDataTypeFactory.php:96
-msgid "NDE: Indian Heritage Thesaurus"
-msgstr "NDE: Indian Heritage Thesaurus"
+msgid "NDE: Dutch East Indies Heritage Thesaurus"
+msgstr "NDE: Dutch East Indies Heritage Thesaurus"
 
 #: src/Service/NdeTermsDataTypeFactory.php:100
-msgid "NDE: Muziekweb: genres and styles"
-msgstr "NDE: Muziekweb: genres and styles"
+msgid "NDE: Music: genres and styles"
+msgstr "NDE: Music: genres and styles"
 
 #: src/Service/NdeTermsDataTypeFactory.php:104
-msgid "NDE: Muziekweb: persons and groups"
-msgstr "NDE: Muziekweb: persons and groups"
+msgid "NDE: Music: persons and groups"
+msgstr "NDE: Music: persons and groups"
 
 #: src/Service/NdeTermsDataTypeFactory.php:108
 msgid "NDE: Muziekschatten: subjects"
@@ -135,8 +135,8 @@ msgid "NDE: Thesaurus National Museum of World Cultures"
 msgstr "NDE: Thesaurus National Museum of World Cultures"
 
 #: src/Service/NdeTermsDataTypeFactory.php:136
-msgid "NDE: Thesaurus Second World War Netherlands"
-msgstr "NDE: Thesaurus Second World War Netherlands"
+msgid "NDE: Thesaurus WW2"
+msgstr "NDE: Thesaurus WW2"
 
 #: src/Service/NdeTermsDataTypeFactory.php:140
 msgid "NDE: Biographies Second World War Netherlands"

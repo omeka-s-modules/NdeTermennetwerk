@@ -4,11 +4,13 @@ An [Omeka S](https://omeka.org/s/) module that adds the [Network of Terms](https
 
 ### [NDE Termennetwerk](https://termennetwerk.netwerkdigitaalerfgoed.nl/)
 
+- Art & Architecture Thesaurus
 - Art & Architecture Thesaurus - materials
 - Art & Architecture Thesaurus - processes and techniques
 - Art & Architecture Thesaurus - styles and periods
 - Archaeological Basic Register
 - Adamlink: streets in Amsterdam
+- Adamlink: historical addresses in Amsterdam
 - Biographies Second World War Netherlands
 - Brinkman keyword thesaurus
 - Buildings in Brabant
@@ -16,29 +18,35 @@ An [Omeka S](https://omeka.org/s/) module that adds the [Network of Terms](https
 - Cultural-Historical Thesaurus
 - Cultural-Historical Thesaurus - Materials
 - Cultural-Historical Thesaurus - Styles and periods
-- Dutch thesaurus of author names (NTA)
+- Dutch National Thesaurus for Author Names
 - EuroVoc - thesaurus of the European Union
-- GeoNames: gepgraphical names in the Netherlands, Belgium and Germany
+- GeoNames: geographical names in the Netherlands, Belgium and Germany
+- GeoNames: global geographical names
 - GTAA: classification
 - GTAA: genres
-- GTAA: geographic names
+- GTAA: geographical namess
 - GTAA: names
 - GTAA: subjects
+- GTAA: subjects sound-vision
 - GTAA: person names
 - Homosaurus
 - Iconclass
-- Indian Heritage Thesaurus
-- Muziekweb: genres and styles
-- Muziekweb: persons and groups
+- Dutch East Indies Heritage Thesaurus
+- Music: genres and styles
+- Music: persons and groups
 - Muziekschatten: subjects
 - Muziekschatten: performance mediums
 - Muziekschatten: persons
 - National Monuments Register RCE
+- Persons in Context role thesaurus
+- Persons in Context source types thesaurus
+- Regiotermen Fryslân: Persons
 - RKDartists
 - STCN: printers
-- Streets in Gouda
+- Gouda streets
+- Thesaurus Camp Westerbork
 - Thesaurus National Museum of World Cultures
-- Thesaurus Second World War Netherlands
+- Thesaurus WW2
 - Wikidata: all entities
 - Wikidata: persons
 - Wikidata: places in the Netherlands and Belgium
