@@ -28,6 +28,10 @@ class NdeTermsDataTypeFactory implements FactoryInterface
             'label' => 'NDE: Archaeological Basic Register', // @translate
             'source' => 'https://data.cultureelerfgoed.nl/term/id/abr',
         ],
+        'valuesuggest:ndeterms:adamadrs' => [
+            'label' => 'NDE: Adamlink: historical addresses in Amsterdam', // @translate
+            'source' => 'hhttps://adamlink.nl/geo/addresses/start/',
+        ],
         'valuesuggest:ndeterms:adamlink' => [
             'label' => 'NDE: Adamlink: streets in Amsterdam', // @translate
             'source' => 'https://adamlink.nl/geo/streets/list',

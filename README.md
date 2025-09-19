@@ -9,6 +9,7 @@ An [Omeka S](https://omeka.org/s/) module that adds the [Network of Terms](https
 - Art & Architecture Thesaurus - styles and periods
 - Archaeological Basic Register
 - Adamlink: streets in Amsterdam
+- Adamlink: historical addresses in Amsterdam
 - Biographies Second World War Netherlands
 - Brinkman keyword thesaurus
 - Buildings in Brabant

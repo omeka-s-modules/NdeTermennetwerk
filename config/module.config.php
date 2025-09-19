@@ -8,6 +8,7 @@ return [
             'valuesuggest:ndeterms:aatpt' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:aatsp' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:abr' => Service\NdeTermsDataTypeFactory::class,
+            'valuesuggest:ndeterms:adamadrs' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:adamlink' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:bcgebouwen' => Service\NdeTermsDataTypeFactory::class,
             'valuesuggest:ndeterms:btt' => Service\NdeTermsDataTypeFactory::class,
