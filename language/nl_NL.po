@@ -14,174 +14,206 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: src/Service/NdeTermsDataTypeFactory.php:16
+msgid "NDE: Art & Architecture Thesaurus"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:20
 msgid "NDE: Art & Architecture Thesaurus - materials"
 msgstr "NDE: AAT - materialen"
 
-#: src/Service/NdeTermsDataTypeFactory.php:20
+#: src/Service/NdeTermsDataTypeFactory.php:24
 msgid "NDE: Art & Architecture Thesaurus - processes and techniques"
 msgstr "NDE: AAT - processen en technieken"
 
-#: src/Service/NdeTermsDataTypeFactory.php:24
+#: src/Service/NdeTermsDataTypeFactory.php:28
 msgid "NDE: Art & Architecture Thesaurus - styles and periods"
 msgstr "NDE: AAT - stijlen en periodes"
 
-#: src/Service/NdeTermsDataTypeFactory.php:28
+#: src/Service/NdeTermsDataTypeFactory.php:32
 msgid "NDE: Archaeological Basic Register"
 msgstr "NDE: Archeologisch Basisregister"
 
-#: src/Service/NdeTermsDataTypeFactory.php:32
+#: src/Service/NdeTermsDataTypeFactory.php:36
+msgid "NDE: Adamlink: historical addresses in Amsterdam"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:40
 msgid "NDE: Adamlink: streets in Amsterdam"
 msgstr "NDE: Straten in Amsterdam"
 
-#: src/Service/NdeTermsDataTypeFactory.php:36
+#: src/Service/NdeTermsDataTypeFactory.php:44
 msgid "NDE: Brinkman keyword thesaurus"
 msgstr "NDE: Brinkman trefwoorden thesaurus"
 
-#: src/Service/NdeTermsDataTypeFactory.php:40
+#: src/Service/NdeTermsDataTypeFactory.php:48
 msgid "NDE: Cultural-Historical Thesaurus"
 msgstr "NDE: CHT"
 
-#: src/Service/NdeTermsDataTypeFactory.php:44
+#: src/Service/NdeTermsDataTypeFactory.php:52
 msgid "NDE: Cultural-Historical Thesaurus - Materials"
 msgstr "NDE: CHT - materialen"
 
-#: src/Service/NdeTermsDataTypeFactory.php:48
+#: src/Service/NdeTermsDataTypeFactory.php:56
 msgid "NDE: Cultural-Historical Thesaurus - Styles and periods"
 msgstr "NDE: CHT - stijlen en periodes"
 
-#: src/Service/NdeTermsDataTypeFactory.php:52
+#: src/Service/NdeTermsDataTypeFactory.php:60
 msgid "NDE: EuroVoc - thesaurus of the European Union"
 msgstr "NDE: EuroVoc"
 
-#: src/Service/NdeTermsDataTypeFactory.php:56
+#: src/Service/NdeTermsDataTypeFactory.php:64
 msgid ""
 "NDE: GeoNames: geographical names in the Netherlands, Belgium and Germany"
 msgstr "NDE: Geonames NL, BE en DE"
 
-#: src/Service/NdeTermsDataTypeFactory.php:60
-msgid "NDE: Gouda streets"
-msgstr "NDE: Straten in Gouda"
+#: src/Service/NdeTermsDataTypeFactory.php:68
+msgid "NDE: GeoNames: global geographical names"
+msgstr ""
 
-#: src/Service/NdeTermsDataTypeFactory.php:64
+#: src/Service/NdeTermsDataTypeFactory.php:72
+msgid "NDE: Gouda streets"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:76
 msgid "NDE: GTAA: person names"
 msgstr "NDE: GTAA - persoonsnamen"
 
-#: src/Service/NdeTermsDataTypeFactory.php:68
+#: src/Service/NdeTermsDataTypeFactory.php:80
 msgid "NDE: GTAA: classification"
 msgstr "NDE: GTAA - classificatie"
 
-#: src/Service/NdeTermsDataTypeFactory.php:72
+#: src/Service/NdeTermsDataTypeFactory.php:84
 msgid "NDE: GTAA: genres"
 msgstr "NDE: GTAA - genres"
 
-#: src/Service/NdeTermsDataTypeFactory.php:76
+#: src/Service/NdeTermsDataTypeFactory.php:88
 msgid "NDE: GTAA: geographical names"
-msgstr "NDE: GTAA - geografische namen"
+msgstr ""
 
-#: src/Service/NdeTermsDataTypeFactory.php:80
+#: src/Service/NdeTermsDataTypeFactory.php:92
 msgid "NDE: GTAA: names"
 msgstr "NDE: GTAA - namen"
 
-#: src/Service/NdeTermsDataTypeFactory.php:84
+#: src/Service/NdeTermsDataTypeFactory.php:96
 msgid "NDE: GTAA: subjects"
 msgstr "NDE: GTAA - onderwerpen"
 
-#: src/Service/NdeTermsDataTypeFactory.php:88
+#: src/Service/NdeTermsDataTypeFactory.php:100
+msgid "NDE: GTAA: subjects sound-vision"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:104
 msgid "NDE: Homosaurus"
 msgstr "NDE: Homosaurus"
 
-#: src/Service/NdeTermsDataTypeFactory.php:92
+#: src/Service/NdeTermsDataTypeFactory.php:108
 msgid "NDE: Iconclass"
 msgstr "NDE: IconClass"
 
-#: src/Service/NdeTermsDataTypeFactory.php:96
+#: src/Service/NdeTermsDataTypeFactory.php:112
 msgid "NDE: Dutch East Indies Heritage Thesaurus"
-msgstr "NDE: Indisch Erfgoed Thesaurus"
+msgstr ""
 
-#: src/Service/NdeTermsDataTypeFactory.php:100
+#: src/Service/NdeTermsDataTypeFactory.php:116
 msgid "NDE: Music: genres and styles"
-msgstr "NDE: Muziekweb - genres en stijlen"
+msgstr ""
 
-#: src/Service/NdeTermsDataTypeFactory.php:104
+#: src/Service/NdeTermsDataTypeFactory.php:120
 msgid "NDE: Music: persons and groups"
-msgstr "NDE: Muziekweb - personen en groepen"
+msgstr ""
 
-#: src/Service/NdeTermsDataTypeFactory.php:108
+#: src/Service/NdeTermsDataTypeFactory.php:124
 msgid "NDE: Muziekschatten: subjects"
 msgstr "NDE: Muziekweb - onderwerpen"
 
-#: src/Service/NdeTermsDataTypeFactory.php:112
+#: src/Service/NdeTermsDataTypeFactory.php:128
 msgid "NDE: Muziekschatten: persons"
 msgstr "NDE: Muziekweb - personen"
 
-#: src/Service/NdeTermsDataTypeFactory.php:116
+#: src/Service/NdeTermsDataTypeFactory.php:132
 msgid "NDE: Muziekschatten: performance mediums"
 msgstr "NDE: Muziekschatten - uitvoeringsmedium"
 
-#: src/Service/NdeTermsDataTypeFactory.php:120
+#: src/Service/NdeTermsDataTypeFactory.php:136
 msgid "NDE: Dutch thesaurus of author names"
 msgstr "NDE: Nederlandse Thesaurus Auteursnamen"
 
-#: src/Service/NdeTermsDataTypeFactory.php:124
+#: src/Service/NdeTermsDataTypeFactory.php:140
+msgid "NDE: Persons in Context role thesaurus"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:144
+msgid "NDE: Persons in Context source types thesaurus"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:148
+msgid "NDE: Regiotermen Fryslân: Persons"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:152
 msgid "NDE: RKDartists"
 msgstr "NDE: RKDartists"
 
-#: src/Service/NdeTermsDataTypeFactory.php:128
+#: src/Service/NdeTermsDataTypeFactory.php:156
 msgid "NDE: STCN: printers"
 msgstr "NDE: STCN - drukkers"
 
-#: src/Service/NdeTermsDataTypeFactory.php:132
+#: src/Service/NdeTermsDataTypeFactory.php:160
+msgid "NDE: Thesaurus Camp Westerbork"
+msgstr ""
+
+#: src/Service/NdeTermsDataTypeFactory.php:164
 msgid "NDE: Thesaurus National Museum of World Cultures"
 msgstr "NDE: Thesaurus Nationaal Museum van Wereldculturen"
 
-#: src/Service/NdeTermsDataTypeFactory.php:136
+#: src/Service/NdeTermsDataTypeFactory.php:168
 msgid "NDE: Thesaurus WW2"
-msgstr "NDE: WO2-thesaurus"
+msgstr ""
 
-#: src/Service/NdeTermsDataTypeFactory.php:140
-msgid "NDE: Biographies Second World War Netherlands"
-msgstr "NDE: WO2-biografieën"
+#: src/Service/NdeTermsDataTypeFactory.php:172
+msgid "NDE: WW2 biographies"
+msgstr ""
 
-#: src/Service/NdeTermsDataTypeFactory.php:144
+#: src/Service/NdeTermsDataTypeFactory.php:176
 msgid "NDE: Wikidata: all entities"
 msgstr "NDE: Wikidata - alle entiteiten"
 
-#: src/Service/NdeTermsDataTypeFactory.php:148
+#: src/Service/NdeTermsDataTypeFactory.php:180
 msgid "NDE: Wikidata: persons"
 msgstr "NDE: Wikidata - personen"
 
-#: src/Service/NdeTermsDataTypeFactory.php:152
+#: src/Service/NdeTermsDataTypeFactory.php:184
 msgid "NDE: Wikidata: places in the Netherlands and Belgium"
 msgstr "NDE: Wikidata - plaatsen in NL en BE"
 
-#: src/Service/NdeTermsDataTypeFactory.php:156
+#: src/Service/NdeTermsDataTypeFactory.php:188
 msgid "NDE: Wikidata: streets in the Netherlands"
 msgstr "NDE: Wikidata - straten in NL"
 
-#: src/Service/NdeTermsDataTypeFactory.php:160
+#: src/Service/NdeTermsDataTypeFactory.php:192
 msgid "NDE: Buildings in Brabant"
 msgstr "NDE: Gebouwen in Brabant"
 
-#: src/Service/NdeTermsDataTypeFactory.php:164
+#: src/Service/NdeTermsDataTypeFactory.php:196
 msgid "NDE: Colonial Past"
 msgstr "NDE: Koloniaal Verleden"
 
-#: src/Service/NdeTermsDataTypeFactory.php:168
+#: src/Service/NdeTermsDataTypeFactory.php:200
 msgid "NDE: National Monuments Register RCE"
 msgstr "NDE: Rijksmonumentenregister"
 
-#: src/Suggester/NdeTermsSuggest.php:142
+#: src/Suggester/NdeTermsSuggest.php:151
 msgid "Alternative label: "
 msgstr "Alternatief label:"
 
-#: src/Suggester/NdeTermsSuggest.php:146
+#: src/Suggester/NdeTermsSuggest.php:155
 msgid "Broader term: "
 msgstr "Bredere term:"
 
-#: src/Suggester/NdeTermsSuggest.php:150
+#: src/Suggester/NdeTermsSuggest.php:159
 msgid "Narrower term: "
 msgstr "Nauwere term:"
 
-#: src/Suggester/NdeTermsSuggest.php:154
+#: src/Suggester/NdeTermsSuggest.php:163
 msgid "Related term: "
 msgstr "Gerelateerde term:"
